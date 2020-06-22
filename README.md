@@ -1,6 +1,7 @@
 # mywim
 
 A new Flutter application for im.
+模仿即时通讯的一个界面布局，纯架构布局，没有网络。
 
 ## Getting Started
 
